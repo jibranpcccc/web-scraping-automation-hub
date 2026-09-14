@@ -4,10 +4,17 @@
     <title>Web Scraping &amp; Headless Automation Hub</title>
     <link>https://jibranpcccc.github.io/web-scraping-automation-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:09:30 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/web-scraping-automation-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
+      <link>https://discord.gg/devcord</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/web-scraping-automation-hub/#web-scraping-automation-hub-discord-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:09:30 GMT</pubDate>
+      <description>Newly verified community added to Web Scraping &amp; Headless Automation Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
+    </item>
+<item>
       <title>Web Scraping &amp; Headless Automation Hub Initial Release</title>
       <link>https://jibranpcccc.github.io/web-scraping-automation-hub/</link>
       <pubDate>Mon, 14 Sep 2026 06:02:42 GMT</pubDate>
