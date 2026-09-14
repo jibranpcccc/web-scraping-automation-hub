@@ -1,0 +1,512 @@
+[
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-1",
+    "title": "r/ObsidianMD Personal Knowledge",
+    "platform": "Reddit",
+    "category": "Knowledge Management",
+    "memberCount": "190,000+ members",
+    "description": "Discussions on Markdown vaults, Zettelkasten methods, Dataview queries, graph theory, and local-first notes.",
+    "joinUrl": "https://www.reddit.com/r/ObsidianMD/",
+    "tags": [
+      "obsidian",
+      "pkm",
+      "markdown",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-2",
+    "title": "r/Notion Workspace Architects",
+    "platform": "Reddit",
+    "category": "Productivity Systems",
+    "memberCount": "340,000+ members",
+    "description": "Template sharing, formula 2.0 tutorials, GTD dashboards, and Notion database relation architecture.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
+    "tags": [
+      "notion",
+      "templates",
+      "gtd",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-3",
+    "title": "r/productivity Systems & Habits",
+    "platform": "Reddit",
+    "category": "Personal Productivity",
+    "memberCount": "2,400,000+ members",
+    "description": "Time blocking techniques, deep work habits, morning routines, and digital workflow optimization.",
+    "joinUrl": "https://www.reddit.com/r/productivity/",
+    "tags": [
+      "productivity",
+      "habits",
+      "time-management",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-4",
+    "title": "r/nocode Visual Development",
+    "platform": "Reddit",
+    "category": "No-Code & Automation",
+    "memberCount": "78,000+ members",
+    "description": "Building software, internal tools, and SaaS products with Webflow, Bubble, Zapier, and Make without code.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
+    "tags": [
+      "nocode",
+      "bubble",
+      "webflow",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-5",
+    "title": "Obsidian Members Discord",
+    "platform": "Discord",
+    "category": "Knowledge Management",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for plugin developers, theme creators, and second brain builders.",
+    "joinUrl": "https://discord.gg/obsidian",
+    "tags": [
+      "obsidian",
+      "discord",
+      "plugins",
+      "notes"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-telegram-6",
+    "title": "Daily Productivity & Automation Hacks",
+    "platform": "Telegram",
+    "category": "Automation",
+    "memberCount": "49,000+ members",
+    "description": "Workflow automation blueprints, API webhooks, Zapier templates, and focus routines.",
+    "joinUrl": "https://t.me/productivity_hacks",
+    "tags": [
+      "productivity",
+      "telegram",
+      "automation",
+      "zapier"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-forum-7",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Knowledge Management",
+    "memberCount": "110,000+ members",
+    "description": "Feature requests, plugin documentation, CSS snippet sharing, and academic knowledge management workflows.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "forum",
+      "knowledge",
+      "plugins"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-8",
+    "title": "r/digitalnomad Global Travelers",
+    "platform": "Reddit",
+    "category": "Digital Nomad",
+    "memberCount": "2,300,000+ members",
+    "description": "All things digital nomadism: nomad visas, coliving hubs, tax residency, portable workstations, and internet speed tests.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
+    "tags": [
+      "digitalnomad",
+      "travel",
+      "remote-work",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-9",
+    "title": "r/remotework Professionals",
+    "platform": "Reddit",
+    "category": "Remote Careers",
+    "memberCount": "180,000+ members",
+    "description": "Discussions on remote job hunting, async communication, home office ergonomics, and international compensation.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "careers",
+      "telecommuting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-10",
+    "title": "r/cscareerquestions Advisory",
+    "platform": "Reddit",
+    "category": "Tech Careers",
+    "memberCount": "1,100,000+ members",
+    "description": "Career guidance for software engineers, FAANG interview preparation, salary negotiations, and leveling benchmarks.",
+    "joinUrl": "https://www.reddit.com/r/cscareerquestions/",
+    "tags": [
+      "cscareerquestions",
+      "interviews",
+      "salary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-11",
+    "title": "Nomads & Remote Workers Discord",
+    "platform": "Discord",
+    "category": "Remote Lifestyle",
+    "memberCount": "42,000+ members",
+    "description": "Real-time chat connecting nomads across Europe, Southeast Asia, and the Americas with local city channels.",
+    "joinUrl": "https://discord.gg/nomads",
+    "tags": [
+      "nomads",
+      "discord",
+      "travel",
+      "community"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-telegram-12",
+    "title": "Remote Tech Jobs Channel",
+    "platform": "Telegram",
+    "category": "Remote Careers",
+    "memberCount": "68,000+ members",
+    "description": "Daily verified global remote openings for software engineers, product managers, and designers.",
+    "joinUrl": "https://t.me/remotework_jobs",
+    "tags": [
+      "remote-jobs",
+      "telegram",
+      "careers",
+      "tech"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-forum-13",
+    "title": "Nomad List Community Hub",
+    "platform": "Forum",
+    "category": "Digital Nomad",
+    "memberCount": "60,000+ members",
+    "description": "Crowdsourced database and forum rating cost of living, internet speed, safety, and nomad communities worldwide.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "travel",
+      "cities",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-14",
+    "title": "r/Python Developer Community",
+    "platform": "Reddit",
+    "category": "Python Development",
+    "memberCount": "1,250,000+ members",
+    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "backend",
+      "software-engineering",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-15",
+    "title": "Python Official Discord",
+    "platform": "Discord",
+    "category": "Python Development",
+    "memberCount": "430,000+ members",
+    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "discord",
+      "code-review",
+      "programming"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-telegram-16",
+    "title": "Python Developers Telegram Channel",
+    "platform": "Telegram",
+    "category": "Python Development",
+    "memberCount": "85,000+ members",
+    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "python",
+      "telegram",
+      "scripts",
+      "tips"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-17",
+    "title": "r/programming International",
+    "platform": "Reddit",
+    "category": "General Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "programming",
+      "engineering",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-18",
+    "title": "The Programmer's Hangout",
+    "platform": "Discord",
+    "category": "Software Engineering",
+    "memberCount": "220,000+ members",
+    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "multi-language",
+      "discord",
+      "career"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-19",
+    "title": "r/rust Systems Programming",
+    "platform": "Reddit",
+    "category": "Systems Programming",
+    "memberCount": "280,000+ members",
+    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
+    "joinUrl": "https://www.reddit.com/r/rust/",
+    "tags": [
+      "rust",
+      "systems",
+      "concurrency",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-20",
+    "title": "Rust Programming Language Discord",
+    "platform": "Discord",
+    "category": "Systems Programming",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
+    "joinUrl": "https://discord.gg/rust-lang",
+    "tags": [
+      "rust",
+      "systems",
+      "discord",
+      "compiler"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-telegram-21",
+    "title": "Rust Language News & Updates",
+    "platform": "Telegram",
+    "category": "Systems Programming",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "rust",
+      "telegram",
+      "systems",
+      "updates"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-22",
+    "title": "r/javascript Global Hub",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "2,400,000+ members",
+    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "tags": [
+      "javascript",
+      "webdev",
+      "frontend",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-23",
+    "title": "Reactiflux Discord Community",
+    "platform": "Discord",
+    "category": "Frontend Engineering",
+    "memberCount": "210,000+ members",
+    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
+    "joinUrl": "https://discord.gg/reactiflux",
+    "tags": [
+      "react",
+      "frontend",
+      "javascript",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-telegram-24",
+    "title": "Web Developers Network",
+    "platform": "Telegram",
+    "category": "Web Development",
+    "memberCount": "64,000+ members",
+    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "webdev",
+      "frontend",
+      "telegram",
+      "tooling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-25",
+    "title": "r/golang Backend Hub",
+    "platform": "Reddit",
+    "category": "Backend Engineering",
+    "memberCount": "250,000+ members",
+    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
+    "joinUrl": "https://www.reddit.com/r/golang/",
+    "tags": [
+      "golang",
+      "backend",
+      "concurrency",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-26",
+    "title": "Go Language Official Discord",
+    "platform": "Discord",
+    "category": "Backend Engineering",
+    "memberCount": "65,000+ members",
+    "description": "Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.",
+    "joinUrl": "https://discord.gg/golang",
+    "tags": [
+      "golang",
+      "discord",
+      "backend",
+      "microservices"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-27",
+    "title": "r/typescript Architecture",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "190,000+ members",
+    "description": "Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.",
+    "joinUrl": "https://www.reddit.com/r/typescript/",
+    "tags": [
+      "typescript",
+      "javascript",
+      "webdev",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-discord-28",
+    "title": "TypeScript Community Discord",
+    "platform": "Discord",
+    "category": "Web Development",
+    "memberCount": "55,000+ members",
+    "description": "Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.",
+    "joinUrl": "https://discord.gg/typescript",
+    "tags": [
+      "typescript",
+      "discord",
+      "frontend",
+      "types"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-29",
+    "title": "r/cpp High Performance Systems",
+    "platform": "Reddit",
+    "category": "Systems Programming",
+    "memberCount": "310,000+ members",
+    "description": "Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
+    "tags": [
+      "cpp",
+      "systems",
+      "performance",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "web-scraping-headless-automation-hub-reddit-30",
+    "title": "r/webdev Builders Hub",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "2,200,000+ members",
+    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "fullstack",
+      "frontend",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
