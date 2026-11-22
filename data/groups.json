@@ -1,5 +1,24 @@
 [
   {
+    "id": "web-scraping-headless-automation-hub-discord-5",
+    "title": "Obsidian Members Discord",
+    "platform": "Discord",
+    "category": "Knowledge Management",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for plugin developers, theme creators, and second brain builders.",
+    "joinUrl": "https://discord.gg/obsidian",
+    "tags": [
+      "obsidian",
+      "discord",
+      "plugins",
+      "notes"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "web-scraping-headless-automation-hub-reddit-4",
     "title": "r/nocode Visual Development",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -340,24 +359,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
-  },
-  {
-    "id": "web-scraping-headless-automation-hub-discord-5",
-    "title": "Obsidian Members Discord",
-    "platform": "Discord",
-    "category": "Knowledge Management",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for plugin developers, theme creators, and second brain builders.",
-    "joinUrl": "https://discord.gg/obsidian",
-    "tags": [
-      "obsidian",
-      "discord",
-      "plugins",
-      "notes"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "web-scraping-headless-automation-hub-telegram-6",
